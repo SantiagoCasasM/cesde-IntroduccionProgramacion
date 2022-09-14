@@ -1,0 +1,19 @@
+body {background-color: #fce3e3;}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 245, 23);
+    font-size: 14px;
+}
+
+input {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(129, 131, 128);
+    font-size: 14px;
+}
+
+textarea {
+    font-family: cursive;
+    color: blue;
+    font-size: 14px;
+}
