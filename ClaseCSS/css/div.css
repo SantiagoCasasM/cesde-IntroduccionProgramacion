@@ -10,12 +10,37 @@ a{
     display: block;
 }
 .tres{
-    width: 120px;
-    height: 120px;
-    background-color: antiquewhite;
-    margin-top: 5px;
-    padding-top: 60px;
-    padding-left: 60px;
-    border: 0.3rem red dashed;
+    width: 400px;
+    height: 400px;
+    border: 10px red solid;
     
+}
+#perrocrazy{
+    width: 400px;
+    height: 400px;
+}
+.externa{
+    width: 740px;
+    height: 300px;
+    border: 10px black solid;
+    
+    
+}
+.interna{
+    width: 200px;
+    height: 200px;
+    border: 10px rgb(0, 0, 0) solid;
+    margin-left:140px;
+    margin-top: -40px;
+    
+    background-color: blue;
+}
+.interna2{
+    width: 200px;
+    height: 200px;
+    border: 10px #000000 solid;
+    margin-left: 400px;
+    margin-top: -220px;
+    background-color: #98FF98;
+
 }
