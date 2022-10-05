@@ -1,0 +1,344 @@
+#verdefofo{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+#verdeoscuro{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+#azulclaro{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+}
+#verdefofo1{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+}
+#verdeoscuro1{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 400px;
+}
+#azulclaro1{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 500px;
+}
+#verdefofo2{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 600px;
+}
+#verdeoscuro2{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 700px;
+}
+#azulclaro2{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 800px;
+}
+#verdefofo3{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 900px;
+}
+#verdeoscuro3{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1000px;
+}
+#azulclaro3{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1100px;
+}
+#verdefofo4{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1200px;
+}
+#verdeoscuro4{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1300px;
+}
+#azulclaro4{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1400px;
+}
+#verdefofo5{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1500px;
+}
+#verdeoscuro5{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1600px;
+}
+#azulclaro5{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1700px;
+}
+#verdeagua1{
+    background-color: rgb(76, 156, 116);
+    width: 891px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+}
+#blanco1{
+    background-color: rgb(255, 255, 255);
+    width: 155px;
+    height: 200px;
+    position: absolute;
+    top: 314px;
+}
+#verdeagua2{
+    background-color: rgb(76, 156, 116);
+    width: 735px;
+    height: 200px;
+    position: absolute;
+    top: 314px;
+    left: 165px;
+}
+#verdeagua3{
+    background-color: rgb(76, 156, 116);
+    width: 891px;
+    height: 200px;
+    position: absolute;
+    top: 520px;
+}
+#azuloscuro1{
+    background-color: blue;
+    width: 891px;
+    height: 200px;
+    position: absolute;
+    top: 110px;
+    left: 902px;
+}
+#blanco2{
+    background-color: rgb(255, 255, 255);
+    width: 155px;
+    height: 200px;
+    position: absolute;
+    top: 314px;
+    left: 1640px;
+}
+#azuloscuro2{
+    background-color: blue;
+    width: 735px;
+    height: 200px;
+    position: absolute;
+    top: 314px;
+    left: 902px;
+}
+#azuloscuro3{
+    background-color: blue;
+    width: 891px;
+    height: 200px;
+    position: absolute;
+    top: 520px;
+    left: 902px;
+}
+#verdefofox{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 725px;
+}
+#verdeoscurox{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 725px;
+}
+#azulclarox{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    top: 725px;
+}
+#verdefofox1{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+    top: 725px;
+}
+#verdeoscurox1{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 400px;
+    top: 725px;
+}
+#azulclarox1{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 500px;
+    top: 725px;
+}
+#verdefofox2{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 600px;
+    top: 725px;
+}
+#verdeoscurox2{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 700px;
+    top: 725px;
+}
+#azulclarox2{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 800px;
+    top: 725px;
+}
+#verdefofox3{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 900px;
+    top: 725px;
+}
+#verdeoscurox3{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1000px;
+    top: 725px;
+}
+#azulclarox3{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1100px;
+    top: 725px;
+}
+#verdefofox4{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1200px;
+    top: 725px;
+}
+#verdeoscurox4{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1300px;
+    top: 725px;
+}
+#azulclarox4{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1400px;
+    top: 725px;
+}
+#verdefofox5{
+    background-color: rgb(156, 253, 100);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1500px;
+    top: 725px;
+}
+#verdeoscurox5{
+    background-color: rgb(54, 131, 2);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1600px;
+    top: 725px;
+}
+#azulclarox5{
+    background-color: rgb(3, 174, 204);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1700px;
+    top: 725px;
+}
+#puntorojo{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+}
+#puntorojo2{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 633px;
+}
